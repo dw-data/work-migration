@@ -37,12 +37,14 @@ To show the geographically varying importance of labor migration and remittances
 Für die Grafik der Rücküberweisungen wurde auf die Zahlen der Weltbank zugegriffen und die Anteile der Weltregionen berechnet. 
 
 ![](graphics/365_en_work-migration_remittances.png)
+
 _Caveats: The World Bank's figures for remittances received and paid are not entirely congruent. The difference is explained by the imprecision of the collection method, which requires the World Bank to draw on data from a large number of banks and central banks with varying methodological standards and varying degrees of measurement accuracy. For presentation purposes, this imprecision has been ignored and the sum of funds received and transferred has been normalized and equated at 100 percent._
 
 ### Unemployment
 For the visualization of the "employment gap", the unemployment data of the native population and those of labor migrants were put into relation. This made it possible to compare data from countries with very different unemployment rates, since the "employment gap" is a relative ratio independent of the absolute rate. 
 
 Seasonal fluctuations were not removed from the unemployment figures. However, the historical presentation should make the viewer aware of this and counteract any distortion. 
+
 ![](graphics/364_en_work-migration_unemployment.png)
 
 ### Restrictions

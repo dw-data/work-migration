@@ -1,11 +1,11 @@
 # Work Migration
 
 _Idea:_  [Michel Penke](https://michelpenke.de)\
-_Research, data analysis and data visualization:_  [XXX](XXX), [Michel Penke](https://michelpenke.de)\
+_Research, data analysis and data visualization:_ [Michel Penke](https://michelpenke.de)\
 _Writing:_  Faisal Ahmed, [Michel Penke](https://michelpenke.de)
 
 **Read the full articles on DW.com:**
-- [XXX](https://www.dw.com/en/xxx)
+- [Please, go home: How COVID-19 halted labor migration](https://www.dw.com/en/please-go-home-how-covid-19-halted-labor-migration/a-61839447)
 
 Over the course of the coronavirus pandemic, just about every country in the world imposed travel restrictions to stop the spread of the virus. Especially hard hit by the restrictions are migrant workers, who have lost their jobs in many places due to lockdowns and have lost the ability to travel between their home and work countries due to travel bans. The analysis is devoted to the economic consequences of the pandemic for migrant workers. 
 

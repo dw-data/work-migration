@@ -63,6 +63,3 @@ The chart of global travel restrictions is based on data from the CoronaNet Proj
 ![](graphics/363_en_work-migration_restrictions.png)
 
 _Caveats: It should be noted here that there was no qualitative assessment of the constraints. A nationwide "hard" lockdown with the threat of punishment was evaluated in exactly the same way as a partial and "soft" one that, for example, only froze certain regions of a country and imposed, but did not enforce, a quarantine._
-
-
-_Caveats: It should be noted here that there was no qualitative assessment of the constraints. A nationwide "hard" lockdown with the threat of punishment was evaluated in exactly the same way as a partial and "soft" one that, for example, only froze certain regions of a country and imposed, but did not enforce, a quarantine._
